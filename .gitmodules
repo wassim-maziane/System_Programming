@@ -1,0 +1,6 @@
+[submodule "Shell"]
+	path = Shell
+	url = https://github.com/wassim-maziane/Bash_Implementation.git
+[submodule "Memory_Allocator"]
+	path = Memory_Allocator
+	url = https://github.com/wassim-maziane/Memory_Allocator_Implementation.git
